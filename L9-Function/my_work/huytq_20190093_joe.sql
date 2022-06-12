@@ -1,0 +1,1 @@
+select number_of_students('20162101');
